@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069af58ef3b1da047b05d2e4d7cf3ae0, type: 3}
+  m_Name: SkeletonInfo
+  m_EditorClassIdentifier: 
+  _id: Skeleton
+  _damage: 100
+  _atackInterval: 3
+  _health: 1000
+  _resistance: 4
+  _resistanceValue: 1
+  _weakness: 1
+  _weaknessValue: 1
+  _droppingItem: {fileID: 6548018656569865265, guid: 175c38ba44fc73e48b940f8d7ffad34f, type: 3}

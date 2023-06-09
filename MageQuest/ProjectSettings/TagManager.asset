@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire0
+  - Fire1
+  - Fire2
+  - Water0
+  - Water1
+  - Water2
+  - Earth0
+  - Earth1
+  - Earth2
+  - Wind0
+  - Wind1
+  - Wind2
+  - SphereSlot
+  - BagSlot
+  - StandartSlot
+  - Worm
+  - Leather
+  - FlyingEye
+  - Eye
+  - Skeleton
+  - Bone
+  - Traider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

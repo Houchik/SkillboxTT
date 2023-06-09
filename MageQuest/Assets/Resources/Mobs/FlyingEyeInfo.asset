@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069af58ef3b1da047b05d2e4d7cf3ae0, type: 3}
+  m_Name: FlyingEyeInfo
+  m_EditorClassIdentifier: 
+  _id: FlyingEye
+  _damage: 50
+  _atackInterval: 1
+  _health: 1000
+  _resistance: 3
+  _resistanceValue: 1
+  _weakness: 4
+  _weaknessValue: 1
+  _droppingItem: {fileID: 4135355479940659765, guid: 7f49c5d25d127cc4fa8e47ab0db6c1ea, type: 3}

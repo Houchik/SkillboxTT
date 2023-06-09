@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069af58ef3b1da047b05d2e4d7cf3ae0, type: 3}
+  m_Name: WormInfo
+  m_EditorClassIdentifier: 
+  _id: Worm
+  _damage: 250
+  _atackInterval: 3
+  _health: 3000
+  _resistance: 3
+  _resistanceValue: 1
+  _weakness: 2
+  _weaknessValue: 1
+  _droppingItem: {fileID: 4063161298063299569, guid: 245be3e674b98a64eaf23e1327aa8fea, type: 3}
